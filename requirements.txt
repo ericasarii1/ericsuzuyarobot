@@ -28,7 +28,7 @@ wikipedia
 telethon==1.16.4
 spamwatch
 alphabet_detector
-pyrate-limiter
+pyrate-limiter==2.5.0
 cachetools
 pyrogram>=1.0.7
 tgCrypto>=1.2.2
